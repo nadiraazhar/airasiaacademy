@@ -33,7 +33,7 @@ elif option == 'T n C':
         }))
 
 else :
-     'Starting a long computation...'
+    'Starting a long computation...'
 
     latest_iteration = st.empty()
     bar = st.progress(0)
