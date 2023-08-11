@@ -5,7 +5,7 @@ import pickle
 st.write("""
 # Iris Flower Prediction App
 
-This app predicts the **Iris flower** type!
+This app predicts the **Iris flower** type! Ayang busuk
 """)
 
 st.sidebar.header('User Input Parameters')
